@@ -1,4 +1,4 @@
-import 'package:app_financeiro/src/cubits/home_cubit/home_state.dart';
+import 'package:flutter_template/src/cubits/home_cubit/home_state.dart';
 import 'package:bloc/bloc.dart';
 
 class HomeCubit extends Cubit<HomeState> {

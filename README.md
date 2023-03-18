@@ -1,3 +1,3 @@
-# app_financeiro
+# flutter_template
 
 A new Flutter project.

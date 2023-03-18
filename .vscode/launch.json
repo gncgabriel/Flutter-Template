@@ -5,18 +5,18 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "app_financeiro",
+            "name": "flutter_template",
             "request": "launch",
             "type": "dart"
         },
         {
-            "name": "app_financeiro (profile mode)",
+            "name": "flutter_template (profile mode)",
             "request": "launch",
             "type": "dart",
             "flutterMode": "profile"
         },
         {
-            "name": "app_financeiro (release mode)",
+            "name": "flutter_template (release mode)",
             "request": "launch",
             "type": "dart",
             "flutterMode": "release"

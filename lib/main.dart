@@ -1,6 +1,6 @@
-import 'package:app_financeiro/src/cubits/home_cubit/home_cubit.dart';
-import 'package:app_financeiro/src/factories/cubits.dart';
-import 'package:app_financeiro/src/routes/routes.dart';
+import 'package:flutter_template/src/cubits/home_cubit/home_cubit.dart';
+import 'package:flutter_template/src/factories/cubits.dart';
+import 'package:flutter_template/src/routes/routes.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
